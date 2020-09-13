@@ -16,3 +16,5 @@ testing platform：
   After my personal test, the audio that comes with the motherboard can be output from the I/O on the front of the chassis. I haven’t debugged the input yet. The system recognizes it as Intel i5 and the graphics card recognizes normally. I haven’t tested the edited video yet.
   
   If you encounter problems, please leave your valuable comments
+  
+  HFUT(Hefei University of Technology）
