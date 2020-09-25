@@ -18,3 +18,4 @@ testing platform：
   If you encounter problems, please leave your valuable comments
   
   HFUT(Hefei University of Technology）
+支持MACos10.15.7
