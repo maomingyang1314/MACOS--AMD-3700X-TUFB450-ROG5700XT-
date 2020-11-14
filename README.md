@@ -17,4 +17,5 @@ testing platform：
   
   HFUT(Hefei University of Technology）
 
-EFI2 uses opencore 0.6.3 and supports big sur support.
+EFI2使用opencore 0.6.3，并支持大量sur支持。
+Supported the big sur support, audio, start-up no problem. In EFI2 and EFI, it can be used as long as three codes are injected.
