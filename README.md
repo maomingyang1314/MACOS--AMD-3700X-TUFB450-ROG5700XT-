@@ -7,8 +7,7 @@ testing platform：
   
   GPU： ASUS STRIX 5700XT
   
-  SSD：SANSUNG PM961
-  
+  SSD：WD SN750 500GB  
   MacOS：10.15.6 （EFI） 11.0.1（EFI2） The previous version is not tested, it should be supported
 
   After my personal test, the audio that comes with the motherboard can be output from the I/O on the front of the chassis. I haven’t debugged the input yet. The system recognizes it as Intel i5 and the graphics card recognizes normally. I haven’t tested the edited video yet.
