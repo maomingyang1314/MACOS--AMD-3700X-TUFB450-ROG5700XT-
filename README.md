@@ -13,4 +13,7 @@ After my personal test, the audio that comes with the motherboard can be output 
   
   If you encounter problems, please leave your valuable comments
 Supported the big sur support, audio, start-up no problem. In EFI2 and EFI, it can be used as long as three codes are injected.
- HFUT(Hefei University of Technology）
+ HFUT（合肥工业大学）
+
+如果您有疑问请先上网搜索解决办法，再在提问区提问。不合规矩的提问将会被删除。
+并且不要随便的拉取分支，我允许下载，最好不要分支。
