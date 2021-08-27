@@ -9,7 +9,7 @@ testing platform：
   11.0.1（EFI2） 
 EFI3 updated Opencore 0.6.4 to better adapt to Macos 11.0.1.  
 EFI2.9.7 update is Opencore 0.6.7 version. Support Big sur.
-
+EFI4 is update,but I have sold my 5700xt,I can't test the EFI4.
 After my personal test, the audio that comes with the motherboard can be output from the I/O on the front of the chassis. I haven’t debugged the input yet. The system recognizes it as Intel i5 and the graphics card recognizes normally. I haven’t tested the edited video yet.
   
   If you encounter problems, please leave your valuable comments
