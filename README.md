@@ -15,4 +15,6 @@ After my personal test, the audio that comes with the motherboard can be output 
   If you encounter problems, please leave your valuable comments
 Supported the big sur support, audio, start-up no problem. In EFI2 and EFI, it can be used as long as three codes are injected.
  HFUT（合肥工业大学）
-
+ 
+ I have update the latest EFI for MacOS,which I packed in .ZIP files.If your AMD card is not 5700XT series .please choise the EFI without 5700XT series.
+ 
