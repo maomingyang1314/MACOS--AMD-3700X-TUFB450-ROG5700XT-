@@ -18,3 +18,4 @@ Supported the big sur support, audio, start-up no problem. In EFI2 and EFI, it c
  
  I have update the latest EFI for MacOS,which I packed in .ZIP files.If your AMD card is not 5700XT series .please choise the EFI without 5700XT series.
  
+because I am a student ,and I am preparing for the exam. I don't have enough money. But I will try my best to update the EFI.thank you for your apply.
